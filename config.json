@@ -1,0 +1,35 @@
+{
+  "subreddits": [
+    "Windows11",
+    "Windows10",
+    "WindowsHelp",
+    "techsupport",
+    "pcgaming",
+    "buildapc",
+    "headphones",
+    "audio",
+    "obs",
+    "Twitch",
+    "VoiceMeeter"
+  ],
+  "keywords": [
+    "volume resets",
+    "volume keeps resetting",
+    "output device keeps changing",
+    "default device keeps changing",
+    "audio device switches",
+    "audio output keeps switching",
+    "app volume after restart",
+    "per-app volume",
+    "per app volume",
+    "sound settings reset",
+    "volume mixer resets",
+    "goes back to speakers",
+    "switches to monitor speakers",
+    "forgets my headset",
+    "app volume and device preferences",
+    "EarTrumpet"
+  ],
+  "post_limit": 100,
+  "sqlite_path": "data/listener.sqlite3"
+}
